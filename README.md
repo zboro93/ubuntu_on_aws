@@ -18,7 +18,7 @@ This task is to build Ubuntu EC2 instance on AWS, with all required infrastructu
 
 **How it works**
 
-Terraform file containe resources to build VCP, public subnet, security group with ingress rule for SSH port 22, internet gateway, route table, EC2 Ubuntu instance with public IP, key pair for SSH connection.
+Terraform file contains resources to build VCP, public subnet, security group with ingress rule for SSH port 22, internet gateway, route table, EC2 Ubuntu instance with public IP, key pair for SSH connection.
 
 ---
 
