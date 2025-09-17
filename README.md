@@ -1,7 +1,4 @@
-# ubuntu_on_aws
-
-Ubuntu EC2 with SSH enabled
-## perfromance_monitor
+## ubuntu_on_aws
 task3 - build Ubuntu instance with Terraform
 ---
 
